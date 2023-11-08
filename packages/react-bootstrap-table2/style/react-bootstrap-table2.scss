@@ -162,9 +162,10 @@
   }
   .row-expansion-style{
     padding: 8px;
+    background-color: #f2f2f2;
   }
   .row-expansion-inner{
-    transition: height 0.5s ease;
+    transition: height 0.5s;
     overflow: hidden;
   }
   .row-expand-slide-appear{

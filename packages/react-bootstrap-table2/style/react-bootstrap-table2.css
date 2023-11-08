@@ -125,9 +125,10 @@
 }
 .react-bootstrap-table .row-expansion-style {
   padding: 8px;
+  background-color: #f2f2f2;
 }
 .react-bootstrap-table .row-expansion-inner {
-  transition: height 0.5s ease;
+  transition: height 0.5s;
   overflow: hidden;
 }
 .react-bootstrap-table .row-expand-slide-appear {
